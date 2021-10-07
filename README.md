@@ -1,5 +1,5 @@
 # bashtutorial
-This repository contains basic tutorials of bash language
+This repository contains basic tutorials of bash language.Simply copy paste to try them out yourself :D .
 
 # List of files
 
